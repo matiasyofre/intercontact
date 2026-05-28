@@ -2,11 +2,9 @@
   "name": "intercontact-elearning",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://matiasyofre.github.io/intercontact/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -17,7 +15,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "gh-pages": "^6.3.0",
     "sass": "^1.77.0",
     "vite": "^5.0.0"
   }
